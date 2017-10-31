@@ -1,0 +1,29 @@
+{
+  "name": "datalogic-scanner",
+  "version": "0.0.1",
+  "description": "Plugin to allow the use of datalogic scanner",
+  "cordova": {
+    "id": "com.iabsis.datalogic.scanner2",
+    "platforms": ["android"]
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourgithubname/cordova-alert-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "datalogic",
+    "dl-axist",
+    "ecosystem:cordova"
+  ],
+  "author": "Gilles Hemmerlé",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/yourgithubname/cordova-alert-plugin/issues"
+  },
+  "homepage": "https://github.com/yourgithubname/cordova-alert-plugin#readme"
+}
+
